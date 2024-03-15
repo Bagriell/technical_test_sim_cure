@@ -1,3 +1,10 @@
+.vscode
+*.exe
+/build/*
+*.txt
+technical_test_sim_cure
+values.csv
+
 # Prerequisites
 *.d
 
