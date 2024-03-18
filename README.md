@@ -26,6 +26,9 @@ run
 `
 ./technical_test_sim_cure <filename>
 `
+## possible enhancement
 
+- handle other than utf-8 caracters
+- fix warning for multiline characters on dict declaraction for special caracters
 
 
